@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="555c815e-502f-4a7c-a42e-6e1beca193ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="555c815e-502f-4a7c-a42e-6e1beca193ff" name="Changes" comment="laab_002 Add">
+      <change afterPath="$PROJECT_DIR$/Src/Escape_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Grade_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Practice/Practice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/circle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/conditional_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10102024/lab_003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10102024/number_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_13082024/lab_0021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/fizz_buzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/ex_08082024/lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/ex_08082024/lab_001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kyJhvPsTgCCWNMzNu3xJ78Qbjj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,12 +49,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab_001.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Escape_Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grade_Calculator.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle_area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_loops.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_table.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.conditional_loops">
+    <configuration name="Grade_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4XLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Grade_Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditional_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4XLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/conditional_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.conditional_loops" />
+        <item itemvalue="Python.Grade_Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +142,40 @@
       <option name="presentableId" value="Default" />
       <updated>1724250005393</updated>
     </task>
+    <task id="LOCAL-00001" summary="laab_002 Add">
+      <option name="closed" value="true" />
+      <created>1724251416360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724251416360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="laab_002 Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="laab_002 Add" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/conditional_loops.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/conditional_loops.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/conditional_loops.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
